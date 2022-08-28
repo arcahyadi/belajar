@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2022-08-28T10:01:51.678Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="c-eN78eHth-ih58B0EJ_" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-28T10:10:41.665Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="zIfOAvpj82xF_WMPPPPs" version="20.2.7" type="github">
   <diagram id="Ukrp1rUJxlxivOxeiudX" name="Page-1">
-    <mxGraphModel dx="1422" dy="1854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1778" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VFZZ_loOnKPAne_LoCTI-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="50" y="40" width="890" height="890" as="geometry" />
+          <mxGeometry x="50" y="40" width="960" height="960" as="geometry" />
         </mxCell>
         <mxCell id="VFZZ_loOnKPAne_LoCTI-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fontFamily=Times New Roman;" vertex="1" parent="1">
-          <mxGeometry x="130" y="60" width="770" height="770" as="geometry" />
+          <mxGeometry x="130" y="60" width="820" height="820" as="geometry" />
         </mxCell>
         <mxCell id="VFZZ_loOnKPAne_LoCTI-49" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;labelBackgroundColor=default;fontFamily=Times New Roman;fontSize=12;fontColor=default;endArrow=open;strokeColor=default;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-3" target="VFZZ_loOnKPAne_LoCTI-25">
           <mxGeometry relative="1" as="geometry" />
@@ -45,16 +45,10 @@
           <mxGeometry x="295" y="60" width="330" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VFZZ_loOnKPAne_LoCTI-12" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Login&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="590" y="100" width="120" height="80" as="geometry" />
+          <mxGeometry x="570" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VFZZ_loOnKPAne_LoCTI-13" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;Lupa password&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="760" y="200" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="VFZZ_loOnKPAne_LoCTI-21" value="Use" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;fontFamily=Times New Roman;fontSize=20;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="1300" y="-90" as="sourcePoint" />
-            <mxPoint x="1460" y="-90" as="targetPoint" />
-          </mxGeometry>
+          <mxGeometry x="770" y="100" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="VFZZ_loOnKPAne_LoCTI-25" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Dashboard&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="330" y="100" width="135" height="80" as="geometry" />
@@ -196,6 +190,87 @@
             <mxPoint x="390" y="470" as="sourcePoint" />
             <mxPoint x="550" y="470" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-77" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;Ganti Password&lt;/b&gt;&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="660" y="190" width="140" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-78" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Ganti data profile&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="290" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-79" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1.007;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-77" target="VFZZ_loOnKPAne_LoCTI-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="780" y="150" as="sourcePoint" />
+            <mxPoint x="700" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-82" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Tambah invoice&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-83" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Tambah produk&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="560" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-84" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Cetak laporan&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="470" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-85" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Manipulasi produk&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="730" y="650" width="150" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-87" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Tambah user&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="562.5" y="670" width="135" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-88" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Ganti status user&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="720" y="780" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-89" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-78" target="VFZZ_loOnKPAne_LoCTI-27">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="670" y="245" as="sourcePoint" />
+            <mxPoint x="475.94499999999994" y="267.03999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-90" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-82" target="VFZZ_loOnKPAne_LoCTI-29">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="340" as="sourcePoint" />
+            <mxPoint x="455.05194529908044" y="288.3892210740778" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-92" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-84" target="VFZZ_loOnKPAne_LoCTI-30">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="430" as="sourcePoint" />
+            <mxPoint x="475" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-93" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-85" target="VFZZ_loOnKPAne_LoCTI-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="520" as="sourcePoint" />
+            <mxPoint x="475" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-94" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-83" target="VFZZ_loOnKPAne_LoCTI-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="530" as="sourcePoint" />
+            <mxPoint x="485" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-95" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=0.919;entryY=0.775;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-88" target="VFZZ_loOnKPAne_LoCTI-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="740" y="700" as="sourcePoint" />
+            <mxPoint x="475" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-96" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=0.6;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryPerimeter=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-87" target="VFZZ_loOnKPAne_LoCTI-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="750" y="710" as="sourcePoint" />
+            <mxPoint x="485" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-97" value="&amp;lt;&amp;lt; Extend &amp;gt;&amp;gt;" style="endArrow=open;endSize=12;dashed=1;html=1;fontFamily=Times New Roman;fontSize=12;fontColor=default;entryX=1;entryY=1;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="VFZZ_loOnKPAne_LoCTI-86" target="VFZZ_loOnKPAne_LoCTI-26">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="760" y="720" as="sourcePoint" />
+            <mxPoint x="495" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VFZZ_loOnKPAne_LoCTI-86" value="&lt;font size=&quot;1&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;Edit Hak Akses&lt;/b&gt;&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Times New Roman;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="520" y="780" width="150" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
